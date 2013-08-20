@@ -1,0 +1,33 @@
+1378811742
+a:34:{i:0;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:13:"editor_styles";s:5:"value";s:328:"#青見出し
+h3 {
+	color:Blue;
+}
+#赤見出し
+h3 {
+	color:Red;
+}
+#黄マーカー
+span {
+	background-color:Yellow;
+}
+#緑マーカー
+span {
+	background-color:Lime;
+}
+#大文字
+big {}
+#小文字
+small {}
+#コード
+code {}
+#削除文
+del {}
+#挿入文
+ins {}
+#引用
+cite {}
+#インライン
+q {}";}}i:1;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:5:"theme";s:5:"value";s:10:"nada-icons";}}i:2;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:13:"root_owner_id";s:5:"value";s:0:"";}}i:3;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:19:"category_permission";s:5:"value";s:0:"";}}i:4;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:11:"admin_theme";s:5:"value";s:0:"";}}i:5;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:12:"first_access";s:5:"value";s:0:"";}}i:6;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:11:"mail_encode";s:5:"value";s:5:"UTF-8";}}i:7;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:9:"smtp_host";s:5:"value";s:0:"";}}i:8;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:9:"smtp_port";s:5:"value";s:0:"";}}i:9;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:9:"smtp_user";s:5:"value";s:9:"hatakyo12";}}i:10;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:13:"smtp_password";s:5:"value";s:10:"kyohei1212";}}i:11;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:18:"content_categories";s:5:"value";s:96:"a:2:{s:9:"ブログ";s:9:"ブログ";s:21:"プレスリリース";s:21:"プレスリリース";}";}}i:12;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:13:"content_types";s:5:"value";s:102:"a:3:{s:9:"メール";s:9:"メール";s:9:"ページ";s:9:"ページ";s:9:"ブログ";s:9:"ブログ";}";}}i:13;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:7:"version";s:5:"value";s:5:"2.1.2";}}i:14;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:11:"formal_name";s:5:"value";s:76:"メール配信、メルマガ配信は1050円　|  フラッグシステム";}}i:15;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:4:"name";s:5:"value";s:67:"メール配信、メルマガ配信は1050円のピクトメール";}}i:16;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:7:"keyword";s:5:"value";s:51:"メール配信,メルマガ配信,baserCMS,EC-CUBE";}}i:17;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:11:"description";s:5:"value";s:199:"格安メール配信サービスピクトメールの開発会社フラッグシステムです。
+ASPサービスを中心としたインターネットサービスを展開しております。
+";}}i:18;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:5:"email";s:5:"value";s:23:"hataji@flagsystem.co.jp";}}i:19;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:14:"admin_list_num";s:5:"value";s:2:"10";}}i:20;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:12:"login_credit";s:5:"value";s:1:"1";}}i:21;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:7:"address";s:5:"value";s:9:"福岡県";}}i:22;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:19:"google_analytics_id";s:5:"value";s:12:"UA-4620682-2";}}i:23;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:11:"widget_area";s:5:"value";s:1:"1";}}i:24;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:11:"maintenance";s:5:"value";s:1:"0";}}i:25;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:19:"linked_pages_mobile";s:5:"value";s:1:"0";}}i:26;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:23:"linked_pages_smartphone";s:5:"value";s:1:"0";}}i:27;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:20:"root_layout_template";s:5:"value";s:7:"default";}}i:28;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:27:"root_layout_template_mobile";s:5:"value";s:7:"default";}}i:29;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:31:"root_layout_template_smartphone";s:5:"value";s:7:"default";}}i:30;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:21:"root_content_template";s:5:"value";s:7:"default";}}i:31;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:28:"root_content_template_mobile";s:5:"value";s:7:"default";}}i:32;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:32:"root_content_template_smartphone";s:5:"value";s:7:"default";}}i:33;a:1:{s:10:"SiteConfig";a:2:{s:4:"name";s:15:"editor_enter_br";s:5:"value";s:1:"0";}}}

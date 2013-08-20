@@ -1,0 +1,10 @@
+1377398464
+a:1:{i:0;a:1:{s:4:"Page";a:19:{s:2:"id";s:1:"1";s:4:"sort";s:1:"1";s:4:"name";s:5:"index";s:5:"title";s:24:"フラッグシステム";s:11:"description";s:103:"格安メール配信は1050円〜・メルマガ配信の株式会社フラッグシステムです。";s:8:"contents";s:220:"<div class="clearfix" id="news">
+	<div class="news" style="margin-right:28px;">
+		<h2 id="newsHead01">
+			NEWS &amp; BLOG</h2>
+		<div class="body">
+			<?php $bcBaser->blogPosts('news', 5) ?></div>
+	</div>
+</div>
+";s:16:"page_category_id";N;s:6:"status";b:1;s:3:"url";s:6:"/index";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";b:0;s:8:"modified";s:19:"2013-06-29 13:46:51";s:7:"created";s:19:"2011-06-13 16:53:32";s:4:"code";s:0:"";s:15:"unlinked_mobile";b:0;s:19:"unlinked_smartphone";b:0;}}}

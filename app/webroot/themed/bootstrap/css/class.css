@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/**
+ * クラス
+ */
+
+/* display
+---------------------------------------- */
+.display-none {
+	display:none;
+}
+
+/* adjustment
+---------------------------------------- */
+i {
+	margin-right: 7px;
+}
+
+/* RecentNews
+---------------------------------------- */
+#RecentNews li {
+	line-height: 25px;
+}
+#RecentNews .date {
+	margin-right: 7px;
+}
+
+/* widget
+---------------------------------------------------*/
+.widget {
+	background-color: #F5F5F5;
+	border: 1px solid #E3E3E3;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+	margin-bottom: 20px;
+	min-height: 20px;
+	padding: 19px;
+}
+.widget h2 {
+	color: #999999;
+	display: block;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 20px;
+	padding: 3px 15px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	text-transform: uppercase;
+}
+
+.widget-blog-categories-archives ul {
+	margin-left: 0px;
+}
+.widget-blog-categories-archives li {
+	list-style: none outside none;
+}
+.widget-blog-categories-archives li a {
+	padding: 3px 15px;
+}
+.widget-blog-categories-archives > .active > a, .nav-list > .active > a:hover {
+	background-color: #0088CC;
+	color: #FFFFFF;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+}
+.widget-blog-categories-archives [class^="icon-"] {
+	margin-right: 2px;
+}

@@ -1,0 +1,4 @@
+Options FollowSymLinks
+RewriteEngine on
+RewriteBase /cc
+RewriteRule ^([0-9A-Za-z]+)/(.*)$ http://itm-asp.com/cc/$1/$2 [L]

@@ -1,0 +1,10 @@
+1377398464
+a:1:{i:0;a:3:{s:4:"Page";a:19:{s:2:"id";s:1:"1";s:4:"sort";s:1:"1";s:4:"name";s:5:"index";s:5:"title";s:24:"フラッグシステム";s:11:"description";s:103:"格安メール配信は1050円〜・メルマガ配信の株式会社フラッグシステムです。";s:8:"contents";s:220:"<div class="clearfix" id="news">
+	<div class="news" style="margin-right:28px;">
+		<h2 id="newsHead01">
+			NEWS &amp; BLOG</h2>
+		<div class="body">
+			<?php $bcBaser->blogPosts('news', 5) ?></div>
+	</div>
+</div>
+";s:16:"page_category_id";N;s:6:"status";b:1;s:3:"url";s:6:"/index";s:5:"draft";s:0:"";s:9:"author_id";s:1:"1";s:13:"publish_begin";N;s:11:"publish_end";N;s:14:"exclude_search";b:0;s:8:"modified";s:19:"2013-06-29 13:46:51";s:7:"created";s:19:"2011-06-13 16:53:32";s:4:"code";s:0:"";s:15:"unlinked_mobile";b:0;s:19:"unlinked_smartphone";b:0;}s:12:"PageCategory";a:13:{s:2:"id";N;s:9:"parent_id";N;s:3:"lft";N;s:4:"rght";N;s:4:"name";N;s:5:"title";N;s:4:"sort";N;s:13:"contents_navi";b:0;s:8:"owner_id";N;s:8:"modified";N;s:7:"created";N;s:15:"layout_template";N;s:16:"content_template";N;}s:4:"User";a:10:{s:2:"id";s:1:"1";s:4:"name";s:9:"flagadmin";s:8:"password";s:40:"e5bec0eb06f38e95f1a24222bfa59578b86b9a26";s:11:"real_name_1";s:6:"hataji";s:11:"real_name_2";s:6:"kyohei";s:5:"email";s:23:"hataji@flagsystem.co.jp";s:13:"user_group_id";s:1:"1";s:7:"created";s:19:"2012-10-26 16:42:29";s:8:"modified";s:19:"2013-06-21 15:49:57";s:8:"nickname";N;}}}
