@@ -34,9 +34,9 @@ if(preg_match($pat,$text)){
 <?php $bcBaser->metaKeywords() ?>
 <meta property="og:type" content="article" />
 <meta property="fb:app_id" content="528016170583042"/>
-<meta property="og:site_name" content="1050円からのメルマガ配信。フラッグシステム" />
-<meta property="og:title" content="メルマガ配信は1050円〜。フラッグシステム" />
-<meta property="og:description" content="メルマガ配信は1050円〜。メルマガ配信,メール配信のフラッグシステム" />
+<meta property="og:site_name" content="<?php echo $bcBaser->getTitle() ?>" />
+<meta property="og:title" content="<?php echo $bcBaser->getTitle() ?>" />
+<meta property="og:description" content="<?php echo $bcBaser->getDescription() ?>" />
 <link rel="alternate" type="application/rss+xml" title="atsquare.jp RSS Feed" href="http://flagsystem.co.jp/news/index.rss" />
 <?php $bcBaser->icon() ?>
 <?php $bcBaser->rss('ニュースリリース RSS 2.0', '/news/index.rss') ?>
